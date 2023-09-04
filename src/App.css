@@ -1,0 +1,13 @@
+/** @format */
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Press+Start+2P&family=Rye&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Merienda:wght@300&family=Press+Start+2P&family=Rubik+Iso&family=Rye&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar-brand span {
+  font-family: "Rye", cursive;
+}
+.FontFamily {
+  font-family: "Black Ops One", cursive;
+}
